@@ -83,3 +83,8 @@ Required files:
    - Add new users  
    - View all users  
    - Toggle user status  
+
+---
+
+## 👩‍💻 Author  
+Developed by [Raghad Alrashidi]  
