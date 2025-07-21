@@ -33,7 +33,7 @@ user-form-php-mysql/
 ## 🧭 Setup Instructions  
 
 ### 1️⃣ Install XAMPP  
-Download and install [https://www.apachefriends.org/download.html](https://www.apachefriends.org/download.html)
+Download and install [XAMPP](https://www.apachefriends.org/download.html)
 on your system.  
 
 ### 2️⃣ Start Apache & MySQL  
