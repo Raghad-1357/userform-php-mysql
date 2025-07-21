@@ -59,6 +59,7 @@ on your system.
 ### 4️⃣ Add Project Files to XAMPP  
 Copy all the project files into:  
 C:\xampp\htdocs\user-form-php-mysql
+
 Ensure the folder contains:  
 - index.php  
 - insert.php  
