@@ -1,4 +1,4 @@
-## 🧑‍💻 User Form – PHP & MySQL Project  
+## 💻 User Form – PHP & MySQL Project  
 
 This is a simple web application built with PHP and MySQL to create a form that collects user data (name and age), displays it in a table, and allows toggling the user's status between 0 and 1. This project was completed as part of a training task for Smart Methods.  
 
