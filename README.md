@@ -87,4 +87,4 @@ Required files:
 ---
 
 ## 👩‍💻 Author  
-Developed by [Raghad Alrashidi]  
+Developed by Raghad Alrashidi  
